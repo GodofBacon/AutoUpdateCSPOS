@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="WinFormsApp1.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="WinFormsApp1.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>RxuViQOfKF8h+0K1w0FSkeBS+Bx8v1NhKyyyX2asbDM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.dll" size="6144">
+  <file name="WinFormsApp1.dll" size="5632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>c/caFvjymQ9WTagltYCDRmlobJ70MJ02KrQJZT8dkdg=</dsig:DigestValue>
+      <dsig:DigestValue>zu3F608WdRSnYoFpCQgQUQL2aVAPwAQWm9pV27ATChg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.exe" size="148992">
+  <file name="WinFormsApp1.exe" size="148480">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hC+dCMLHGwdfivGrkFbKWzRdO+leXBFnQD+x5fOPuHI=</dsig:DigestValue>
+      <dsig:DigestValue>dKTCG7KV+UT2YODf2Q/Df4O5KysoIP669gsMQrAA7ko=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WinFormsApp1.runtimeconfig.json" size="372">
