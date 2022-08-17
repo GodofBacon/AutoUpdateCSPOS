@@ -62,4 +62,5 @@
         private TextBox textBox1;
         private Label label1;
     }
+    #endregion
 }
