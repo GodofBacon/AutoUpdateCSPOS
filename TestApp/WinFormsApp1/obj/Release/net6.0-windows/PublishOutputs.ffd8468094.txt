@@ -1,0 +1,5 @@
+D:\Work Repos\AutoUpdateCSPOS\published\WinFormsApp1.exe
+D:\Work Repos\AutoUpdateCSPOS\published\WinFormsApp1.dll
+D:\Work Repos\AutoUpdateCSPOS\published\WinFormsApp1.deps.json
+D:\Work Repos\AutoUpdateCSPOS\published\WinFormsApp1.runtimeconfig.json
+D:\Work Repos\AutoUpdateCSPOS\published\WinFormsApp1.pdb
