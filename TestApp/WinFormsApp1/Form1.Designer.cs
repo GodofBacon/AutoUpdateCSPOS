@@ -30,6 +30,7 @@
         {
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -48,9 +49,19 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "Version 2";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(77, 159);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(140, 15);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Bakule daj da se Krekame";
+            // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
@@ -61,6 +72,7 @@
 
         private TextBox textBox1;
         private Label label1;
+        private Label label2;
     }
     #endregion
 }
